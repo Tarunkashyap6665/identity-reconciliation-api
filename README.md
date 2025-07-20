@@ -34,12 +34,6 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 ```
 
-Or use the provided batch file:
-
-```bash
-run_app.bat
-```
-
 ## API Documentation
 
 After starting the application, you can access the auto-generated API documentation at:
